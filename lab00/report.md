@@ -150,9 +150,9 @@ def functionGraphCreation(train_x, train_t, weights):
 
 Отображаются графики
 
-![size = 50](img/data_set_1.jpg)
+![size = 50](img/data_set_1.png)
 
-![size = 500](img/data_set_2.jpg)
+![size = 500](img/data_set_2.png)
 
 
 
